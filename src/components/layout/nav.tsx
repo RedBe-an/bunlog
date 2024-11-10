@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Navbar() {
   return (
-    <div className="pl-6 pt-5 font-bold">
+   <div className="pl-6 pt-5 font-bold">
       <Button variant="link">
         <Link href="/" className="text-lg">
           Home
