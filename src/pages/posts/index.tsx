@@ -1,4 +1,4 @@
-export default function Home() {
+export default function Posts() {
   return (
     <div
       className={`font-BunFnNeo grid grid-rows-[20px_1fr_20px] items-start justify-items-center min-h-screen p-8 pb-15 gap-8 sm:p-20`}

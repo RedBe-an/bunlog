@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'BunFnNeo';
+    src: url('../pages/fonts/BunFNThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'BunFnNeo';
+    src: url('../pages/fonts/BunFNUltralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'BunFnNeo';
+    src: url('../pages/fonts/BunFNLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'BunFnNeo';
+    src: url('../pages/fonts/BunFNRegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'BunFnNeo';
+    src: url('../pages/fonts/BunFNMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'BunFnNeo';
+    src: url('../pages/fonts/BunFNSemibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'BunFnNeo';
+    src: url('../pages/fonts/BunFNBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'BunFnNeo';
+    src: url('../pages/fonts/BunFNExtrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'BunFnNeo';
+    src: url('../pages/fonts/BunFNHeavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
