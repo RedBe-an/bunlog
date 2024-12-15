@@ -1,7 +1,7 @@
-## Description 📝  
-> Updated project documentation for better clarity and structure.  
+## Description ✨  
+> Added analytics functionality to track user activity.  
   
-## Changes 📝  
-- [x] Revised README file.  
-- [x] Added usage examples.  
-- [x] Improved API endpoint descriptions.
+## Changes ✨  
+- [x] Implemented tracking module.  
+- [x] Created dashboard to visualize data.  
+- [x] Added API endpoint for analytics.
