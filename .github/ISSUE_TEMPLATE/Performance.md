@@ -1,6 +1,6 @@
 ---
-name: Issue template-9583
-about: Issue template 입니다.
+name: Performance Issue
+about: 성능 문제를 말하기 위한 템플릿입니다.
 title: ''
 labels: ''
 assignees: ''

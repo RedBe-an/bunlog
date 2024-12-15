@@ -1,6 +1,6 @@
 ---
-name: Issue template-2506
-about: Issue template 입니다.
+name: Feature Request
+about: 기능 요청을 위한 템플릿입니다.
 title: ''
 labels: ''
 assignees: ''

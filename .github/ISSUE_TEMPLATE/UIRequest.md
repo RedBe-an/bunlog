@@ -1,6 +1,6 @@
 ---
-name: Issue template-4901
-about: Issue template 입니다.
+name: UI request
+about: UI 요청을 위한 템플릿입니다.
 title: ''
 labels: ''
 assignees: ''

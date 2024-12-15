@@ -1,6 +1,6 @@
 ---
-name: Issue template-3044
-about: Issue template 입니다.
+name: Task
+about: 작업 상황을 실시간으로 볼 수 있도록 하는 이슈입니다.
 title: ''
 labels: ''
 assignees: ''

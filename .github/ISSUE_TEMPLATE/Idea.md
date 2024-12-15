@@ -1,6 +1,6 @@
 ---
-name: Issue template-3094
-about: Issue template 입니다.
+name: Idea
+about: 아이디어를 말하기 위한 템플릿입니다.
 title: ''
 labels: ''
 assignees: ''
