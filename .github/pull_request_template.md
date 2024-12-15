@@ -1,9 +1,13 @@
-## Highlights 🎉  
-- [x] Initial release of core features.  
-- [x] Includes user registration, login, and dashboard.  
-- [x] Basic analytics available for admins.  
+## 🔄 코드 리팩토링 PR  
   
-## To Test 🎉  
-1. Register as a new user.  
-2. Log in and explore the dashboard.  
-3. Report any bugs found during testing.
+### 📝 리팩토링 내용  
+- 중복 코드를 모듈화  
+- 불필요한 로직 제거  
+  
+### 🧩 관련 이슈  
+Relates to #456  
+  
+### ✅ 체크리스트  
+- [ ] 기존 기능 정상 동작 확인  
+- [ ] 새로운 테스트 케이스 추가  
+- [ ] 코드 리뷰 완료
