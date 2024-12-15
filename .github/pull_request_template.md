@@ -1,7 +1,10 @@
-## Description ✨  
-> Added analytics functionality to track user activity.  
+## 설명 📘  
+프로젝트 문서를 최신화하여 사용자와 개발자 모두 쉽게 이해할 수 있도록 업데이트했습니다.  
   
-## Changes ✨  
-- [x] Implemented tracking module.  
-- [x] Created dashboard to visualize data.  
-- [x] Added API endpoint for analytics.
+## 주요 변경 사항 📘  
+- [x] README.md 개정 및 섹션 추가  
+- [x] 설치 및 실행 가이드 추가  
+- [x] API 문서 명확화  
+  
+## 검토 요청 📘  
+- 변경된 문서 내용 확인 부탁드립니다.
