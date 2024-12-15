@@ -1,4 +1,7 @@
-## Description 🍭  
-> 해당 이슈에서 해야할 작업 설명  
-##  To do 🍭  
-- [ ] 필요한 사항을 체크박스로 표시 후 완료 시 체크
+## Description 📝  
+> Updated project documentation for better clarity and structure.  
+  
+## Changes 📝  
+- [x] Revised README file.  
+- [x] Added usage examples.  
+- [x] Improved API endpoint descriptions.
