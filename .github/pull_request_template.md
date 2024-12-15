@@ -1,13 +1,7 @@
-## 🔄 코드 리팩토링 PR  
+## Description 📝  
+> Updated project documentation for better clarity and structure.  
   
-### 📝 리팩토링 내용  
-- 중복 코드를 모듈화  
-- 불필요한 로직 제거  
-  
-### 🧩 관련 이슈  
-Relates to #456  
-  
-### ✅ 체크리스트  
-- [ ] 기존 기능 정상 동작 확인  
-- [ ] 새로운 테스트 케이스 추가  
-- [ ] 코드 리뷰 완료
+## Changes 📝  
+- [x] Revised README file.  
+- [x] Added usage examples.  
+- [x] Improved API endpoint descriptions.
