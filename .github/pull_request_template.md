@@ -1,10 +1,9 @@
-## 설명 📘  
-프로젝트 문서를 최신화하여 사용자와 개발자 모두 쉽게 이해할 수 있도록 업데이트했습니다.  
+## Highlights 🎉  
+- [x] Initial release of core features.  
+- [x] Includes user registration, login, and dashboard.  
+- [x] Basic analytics available for admins.  
   
-## 주요 변경 사항 📘  
-- [x] README.md 개정 및 섹션 추가  
-- [x] 설치 및 실행 가이드 추가  
-- [x] API 문서 명확화  
-  
-## 검토 요청 📘  
-- 변경된 문서 내용 확인 부탁드립니다.
+## To Test 🎉  
+1. Register as a new user.  
+2. Log in and explore the dashboard.  
+3. Report any bugs found during testing.
