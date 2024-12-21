@@ -21,7 +21,7 @@ const Navbar = () => {
 
   const navItems = [
     { title: "Home", href: "/" },
-    { title: "Blog", href: "/blog" },
+    { title: "Blog", href: "/posts" },
     { title: "About", href: "/about" },
     { title: "Contact", href: "/contact" },
   ];
@@ -61,7 +61,7 @@ const Navbar = () => {
                 <span className="sr-only">Toggle menu</span>
               </Button>
             </SheetTrigger>
-            <SheetContent side="right">
+            <SheetContent side="left">
               <nav className="flex flex-col gap-4">
                 {navItems.map((item) => (
                   <Link
